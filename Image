@@ -1,5 +1,8 @@
 <body>
-background-image: url("https://cdn.discordapp.com/attachments/752056728937299968/752056807694008400/994874s.jpg");
+      background-image: url("https://cdn.discordapp.com/attachments/752056728937299968/752056807694008400/994874s.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
 </body>
 
 // Adds a background image
